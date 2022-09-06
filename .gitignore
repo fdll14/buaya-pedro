@@ -1,0 +1,7 @@
+node_modules
+whatsapp-session*.json
+package-lock.json
+downloaded-media/
+app.js.backup
+app.backup
+.wwebjs_auth
