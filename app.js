@@ -12,6 +12,7 @@ const port = process.env.PORT || 8000;
 const { sewa, test, botPricelist, botPayment, botMenu, botML, botEPEP, botValo } = require('./listgroups/bot.js');
 const { aPayment, aMenu, aML, aEPEP, aLol,aGi } = require('./listgroups/maulia.js');
 const { tutorial, syarat, adsMenu } = require('./listgroups/ads.js');
+const { three } = require('./listgroups/kuota.js');
 const app = express();
 const server = http.createServer(app);
 const io = socketIO(server);
@@ -197,6 +198,19 @@ Terimakasih @${contact.number} telah order di kami 🙏`,{mentions: [contact]})
         break
       case '!valo':
         msg.reply(botValo)
+        break;
+      case '!kuota':
+        msg.reply(`*Daftar menu suntik kuota* :
+
+*!three* untuk melihat daftar kuota three
+xl comming soon
+tsel comming soon
+indosat comming soon
+
+`)
+        break;
+      case '!three':
+        msg.reply(three)
         break;
       case '!done':
           try {

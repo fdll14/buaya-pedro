@@ -8,8 +8,8 @@ const syarat = `Syarat :
 - Verif 2 langkah dimatiin`
 const adsMenu = `*Menu* :
 
-*tutorial* untuk melihat tutorial garapan
-*syarat* untuk melihat syarat garapan
+*!tutorial* untuk melihat tutorial garapan
+*!syarat* untuk melihat syarat garapan
 
 *!sewa* untuk melihat kontak pemilik saya`
 
