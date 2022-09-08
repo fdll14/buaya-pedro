@@ -11,7 +11,7 @@ const owner = '62895422836123';
 const port = process.env.PORT || 8000;
 const { sewa, test, botPricelist, botPayment, botMenu, botML, botEPEP, botValo } = require('./listgroups/bot.js');
 const { aPayment, aMenu, aML, aEPEP, aLol,aGi } = require('./listgroups/maulia.js');
-const { tutorial, syarat, adsMenu } = require('./listgroups/ads.js');
+const { ads, gestun,garapan, adsMenu } = require('./listgroups/ads.js');
 const { three } = require('./listgroups/kuota.js');
 const app = express();
 const server = http.createServer(app);
@@ -360,15 +360,42 @@ Terimakasih @${contact.number} telah order di kami 🙏`,{mentions: [contact]}) 
   }else if(group === 'Garapan ads'){
     let tag = msg.body
     switch(tag){
-      case '!syarat':
-        msg.reply(syarat)
-        break;
       case '!menu':
         msg.reply(adsMenu)
         break
-      case '!tutorial':
-        msg.reply(tutorial)
+      case '!garapan':
+        msg.reply(garapan)
         break;
+      case '!adsgoogle':
+        msg.reply(ads)
+        break;
+      case '!gestun':
+        msg.reply(gestun)
+        break;
+      case '!close':
+        var authorId = msg.author || msg.from;
+        var chat = await msg.getChat();
+        for(let participant of chat.participants){
+          if(participant.id._serialized === authorId && !participant.isAdmin) {
+            msg.reply(`Perintah ini khusus admin.`);
+          }else if(participant.id._serialized === authorId && participant.isAdmin) {
+            chat.setMessagesAdminsOnly(true);
+            chat.sendMessage(`Toko tutup hari ini`)
+          }
+        }
+        break;
+      case '!open':
+        var authorId = msg.author || msg.from;
+        var chat = await msg.getChat();
+        for(let participant of chat.participants){
+          if(participant.id._serialized === authorId && !participant.isAdmin) {
+            msg.reply(`Perintah ini khusus admin.`);
+          }else if(participant.id._serialized === authorId && participant.isAdmin) {
+            chat.sendMessage(`Toko buka hari ini`)
+            chat.setMessagesAdminsOnly(false);
+          }
+        }
+        break;  
       }    
   }
 });
