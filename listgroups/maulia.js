@@ -23,6 +23,7 @@ const aMenu = `*Menu* :
  *!sewa* untuk menyewa bot`
 
 const aML = `*MOBILE LEGENDS*
+*PAKET A*
 RATE:
 110    DIAMOND 23.000
 275    DIAMOND 50.000
@@ -31,8 +32,19 @@ RATE:
 1.765  DIAMOND 282.000
 2.975 DIAMOND 460.000
 6.000 DIAMOND 888.000
-Langsung masuk (proses sesuai antrian)
-List di atas sudah termasuk bonus top up!!`
+[LANGSUNG KEKIRIM]
+~~~~~~
+*PAKET B*
+2380 DIAMOND 290.000
+4860 DIAMOND 550.000
+9720 DIAMOND 1.050.000
+12100 DIAMOND 1.300.000
+31540 DIAMOND 3.190.000
+60700 DIAMOND 6.000.000
+[HARUS MAIN MINIMAL 3×]
+
+•paket B di proses 1-3 jam
+•100% legal dan dapat invoice`
 
 const aGi = `*GENSHIN IMPACT*
 RATE:
