@@ -11,7 +11,7 @@ const owner = '62895422836123';
 const port = process.env.PORT || 8000;
 const { sewa, test, botPricelist, botPayment, botMenu, botML, botEPEP, botValo } = require('./listgroups/bot.js');
 const { aPayment, aMenu, aML, aEPEP, aLol,aGi } = require('./listgroups/maulia.js');
-const { ads, gestun,garapan, adsMenu } = require('./listgroups/ads.js');
+const { ads, gestun,garapan, adsMenu,cv } = require('./listgroups/buaya.js');
 const { three } = require('./listgroups/kuota.js');
 const app = express();
 const server = http.createServer(app);
@@ -357,7 +357,7 @@ Terimakasih @${contact.number} telah order di kami 🙏`,{mentions: [contact]}) 
         }
         break;
     }    
-  }else if(group === 'Garapan ads'){
+  }else if(group === 'Buaya Cuan'){
     let tag = msg.body
     switch(tag){
       case '!menu':
@@ -368,6 +368,9 @@ Terimakasih @${contact.number} telah order di kami 🙏`,{mentions: [contact]}) 
         break;
       case '!adsgoogle':
         msg.reply(ads)
+        break;
+      case '!cv':
+        msg.reply(cv)
         break;
       case '!gestun':
         msg.reply(gestun)
@@ -380,7 +383,7 @@ Terimakasih @${contact.number} telah order di kami 🙏`,{mentions: [contact]}) 
             msg.reply(`Perintah ini khusus admin.`);
           }else if(participant.id._serialized === authorId && participant.isAdmin) {
             chat.setMessagesAdminsOnly(true);
-            chat.sendMessage(`Toko tutup hari ini`)
+            chat.sendMessage(`Group tutup hari ini`)
           }
         }
         break;
@@ -391,7 +394,7 @@ Terimakasih @${contact.number} telah order di kami 🙏`,{mentions: [contact]}) 
           if(participant.id._serialized === authorId && !participant.isAdmin) {
             msg.reply(`Perintah ini khusus admin.`);
           }else if(participant.id._serialized === authorId && participant.isAdmin) {
-            chat.sendMessage(`Toko buka hari ini`)
+            chat.sendMessage(`Group buka hari ini`)
             chat.setMessagesAdminsOnly(false);
           }
         }
