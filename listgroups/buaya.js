@@ -14,12 +14,13 @@ https://drive.google.com/drive/u/0/folders/1F_T3s0yY7e9wZAMUFk5MgVQxd1WpsLhh
 
 Note
 *Kalo ada pertanyaan tanyakan di group jangan ngepm*`
-const gestun = `Gestun spaylater instan fee 5% via scan,chat langsung ke wa.me/6285888547810
+const gestun = `*Gestun spaylater*
 
+instan fee 5% via scan,chat langsung ke wa.me/6285888547810
 #promotion`
 const garapan = `*List Garapan Buaya Cuan* :
 
-1. Google Ads untuk detail garapan ketik !adsgoogle
+*!adsgoogle*
 `
 const cv = `*Buaya Store Jasa Convert*
 

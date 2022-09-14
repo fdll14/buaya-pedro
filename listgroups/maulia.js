@@ -19,6 +19,7 @@ const aMenu = `*Menu* :
 *!lol* untuk melihat pricelist league of legends
 *!epep* untuk melihat pricelist free fire
 *!gi* untuk melihat pricelist genshin impact
+*!apex* untuk melihat pricelist Apex Legend Mobile
 
  *!sewa* untuk menyewa bot`
 
@@ -55,6 +56,15 @@ RATE:
 3280 GENESIS CRYSTAL 528.000
 6480 GENESIS CRYSTAL
 1.055.000`
+const apex = `*APEX LEGEND MOBILE*
+
+RATE: 
+90 SG = Rp 11.500
+465+35 SG = Rp 41.500
+935+115 SG = Rp 80.000
+2340+410 SG = Rp 188.000
+4680+970 SG = Rp 382.500
+9365+2135 SG = Rp 735.000`
 
 const aEPEP = `*FREE FIRE* 
 
@@ -89,5 +99,6 @@ const aLol = `*LEAGUE OF LEGENDS*
     aML,
     aGi,
     aEPEP,
-    aLol
+    aLol,
+    apex
   }
