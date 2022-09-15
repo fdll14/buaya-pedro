@@ -20,6 +20,7 @@ const aMenu = `*Menu* :
 *!epep* untuk melihat pricelist free fire
 *!gi* untuk melihat pricelist genshin impact
 *!apex* untuk melihat pricelist Apex Legend Mobile
+*!roblox* untuk melihat pricelist Roblox
 
  *!sewa* untuk menyewa bot`
 
@@ -92,6 +93,16 @@ const aLol = `*LEAGUE OF LEGENDS*
 3600 WILD CORE 225.000
 7600 WILD CORE 455.000`
 
+const roblox = `*LIST TOPUP ROBLOX*
+
+80       ROBUX Rp 12.000
+400     ROBUX Rp 55.000
+800     ROBUX Rp 105.000
+1700   ROBUX Rp 210.000
+4500   ROBUX Rp 520.000
+10000 ROBUX Rp 1.035.000
+`
+
   module.exports = {
     aMenu,
     aPayment,
@@ -99,5 +110,6 @@ const aLol = `*LEAGUE OF LEGENDS*
     aGi,
     aEPEP,
     aLol,
-    apex
+    apex,
+    roblox
   }
