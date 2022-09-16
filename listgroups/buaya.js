@@ -2,6 +2,11 @@ const ads = `Garapan ini mengharuskan kalian mendafat ads.google.com
 
 Berapa reward yang diberikan ? gw bayar per emailnya 40k dengan catatan mendaftaran adsnya berhasil.
 
+Pembayaran akan diberikan setelah akun yang kalian setoran aman dan ga kena penagguhan pas di pakai buyer gw.
+
+Jadi sistemnya :
+Setor email -> gw change pwnya -> buyer cek dan bayar ke gw -> kalian cair.
+
 Syarat :
 - Pastikan jangan daftar menggunakan gmail utama kalian (karena email akan saya ambil)
 - Punya Laptop Atau Hp (Lebih saya rekomendasikan menggunakan laptop)
@@ -11,6 +16,9 @@ Syarat :
 
 Tutorial :
 https://drive.google.com/drive/u/0/folders/1F_T3s0yY7e9wZAMUFk5MgVQxd1WpsLhh
+
+List yang sudah setor :
+https://docs.google.com/spreadsheets/d/1-5XZWE-gYM9d9-Bsga6mJkpHyBQdeG7TqSIwuIseKss/edit#gid=0
 
 Note
 *Kalo ada pertanyaan tanyakan di group jangan ngepm*`
@@ -37,12 +45,12 @@ Fee CV Saldo :
 
 Dibawah 10k gratis untuk member *buaya cuan*
 `
+
 const adsMenu = `*Menu* :
 
 *!garapan* untuk melihat list garapan yang ada
 *!cv* untuk melihat list convert yang tersedia
 *!gestun* untuk melihat list gestun yan tersedia
-
 *!sewa* untuk melihat kontak pemilik saya`
 
 
