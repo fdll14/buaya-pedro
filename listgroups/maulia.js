@@ -102,6 +102,16 @@ const roblox = `*LIST TOPUP ROBLOX*
 4500   ROBUX Rp 520.000
 10000 ROBUX Rp 1.035.000
 `
+const aEvent = `*Harga Promo*
+
+*LEAGUE OF LEGENDS*
+410 WILD CORE 38.000
+1350 WILD CORE 85.000
+2000 WILD CORE 147.000
+3600 WILD CORE 218.000
+7600 WILD CORE 440.000
+
+Berlaku tanggal 22 September 2022 saja`
 
   module.exports = {
     aMenu,
@@ -111,5 +121,6 @@ const roblox = `*LIST TOPUP ROBLOX*
     aEPEP,
     aLol,
     apex,
-    roblox
+    roblox,
+    aEvent
   }
