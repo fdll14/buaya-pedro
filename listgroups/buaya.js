@@ -1,30 +1,36 @@
-const ads = `Garapan ini mengharuskan kalian mendaftar ads.google.com
+const ads = `*Garapan Akun Ads Google*
 
-
-Berapa reward yang diberikan ? gw bayar per emailnya 40k dengan catatan mendaftaran adsnya berhasil.
-
-Pembayaran akan diberikan setelah akun yang kalian setoran aman dan ga kena penagguhan pas di pakai buyer gw.
-
-Syarat Setor :
-- Pastikan email fresh dan sudah dibikin 7hari dan tidak pernah digunakan untuk pembayaran apapun. (karena email akan saya ambil)
-- Punya Laptop Atau Hp (Lebih saya rekomendasikan menggunakan laptop)
-- Ga Pernah Melakukan Pembayaran Ilegal di akun gmail tersebut (email bakal gw cek sebelum gw bayar)
-- Pastikan Verif 2 langkah mati
-- Tidak terdapat nomor hp atau google pemulihan di email tersebut.
-- Pastikan akun google ads sudah teracc selama seminggu sebelum kalian setorkan.
-
-Sistem Pembayaran :
-
-Gw bakal nampung emailnya dulu dan gw serahin ke clint gw kalo emang aman dan ga bermasalah baru gw bayar ke kalian.
+Syarat:
+- Akun gmail minimal berumur 7 hari an (jangan yang baru bikin trus langsung buat garap).
+- Punya laptop atau hp untuk garapnya.
+- Akun gmail kosongan (tidak terdapat nomor hp atau google pemulihan).
+- Pastikan verifikasi 2 langkah mati.
+- Pastikan akun ads sudah di acc selama seminggu sebelum kalian setorkan.
 
 Tutorial :
 https://drive.google.com/drive/u/0/folders/1F_T3s0yY7e9wZAMUFk5MgVQxd1WpsLhh
 
-List yang sudah setor :
-https://docs.google.com/spreadsheets/d/1-5XZWE-gYM9d9-Bsga6mJkpHyBQdeG7TqSIwuIseKss/edit#gid=0
+System pembayaran :
+
+Kalian setorin emailnya dengan sesuai syarat diatas, buyer gw coba dan liat hasilnya kalo akunnya bisa munculin *trafik* bakal dibayar.
+
+*QnA* :
+
+1. *Kapan pembayarannya* ? Pembayaran nunggu konfirmasi dulu dari buyer gw.
+
+2. *Bakal dibayar berapa* ? kalian bakal dibayar *100k* buat 1 orang pertama jika akun kalian bisa muncul trafik saat dipake buyer gw dan selebihnya bakal di bayar 50k.
+
+3. *Garapan ini bakal instan cair engga* ? Jawabannya engga karna mesti nunggu buyer gw coba akunnya terlebih dahulu.
+
+4. *Berapa lama kira kira biar dibayar* ? Secepatnya pokoknya tergantung buyer gw ini karna dia perlu cek akunnya satu per satu jadi butuh waktu. dan tiap pengajuan perlu nunggu di check google dulu antara bakal di acc atau engga.
+
+5. *Kenapa ko jadi ribet gini bang* ? Ya mau gimana lagi kebanyakan akunnya dicoba malah ditangguhkan semua kata buyer gw. 
+
+6. *Kalo garap tapi akunnya ditangguhkan atau suspend gimana bang* ? dah gw omongin ke dia dan dia ngasih solusi bakal ngebayar 5k per akun yg ditangguhkan/suspend jadi ga rugi waktu banget garap ini anggap aja garapan di waktu luang.
 
 Note
-*Kalo ada pertanyaan tanyakan di group jangan ngepm*`
+*Kalo ada pertanyaan tanyakan di group jangan ngepm`
+
 const gestun = `*Gestun spaylater*
 
 instan fee 5% via scan,chat langsung ke wa.me/6285888547810
