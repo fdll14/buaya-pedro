@@ -62,17 +62,19 @@ Noted :
 Order dengan memberikan ID+Server`
 const botEPEP = `*Pricelist DM Free Fire By Buaya Store* :
 
-5💎Rp950,00
-12💎Rp2.100,00
-50💎Rp7.200,00
-70💎Rp9.600,00
-140💎Rp19.000,00
-355💎Rp46.500,00
-720💎Rp93.400,00
-1.450💎Rp186.000,00
-2.180💎Rp278.300,00
-3.640💎Rp470.700,00
-7.290💎Rp929.500,00
+20💎Rp3.100,00
+50💎Rp7.300,00
+70💎Rp9.800,00
+100💎Rp14.200,00
+140💎Rp19.500,00
+210💎Rp29.200,00
+355💎Rp48.500,00
+720💎Rp96.500,00
+1.440💎Rp193.000,00
+2.000💎Rp263.500,00
+Membership Mingguan Rp29.000,00
+Membership Bulanan Rp85.000,00
+
 
 *Noted :*
 Order dengan memberikan ID`
