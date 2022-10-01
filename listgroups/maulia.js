@@ -104,7 +104,7 @@ const roblox = `*LIST TOPUP ROBLOX*
 4500   ROBUX Rp 520.000
 10000 ROBUX Rp 1.035.000
 `
-const aEvent = `tunggu update event selanjutnya`
+const aEvent = `*KHUSUS EMEL, BISA DAPET HARGA DISKON UNTUK PEMBELIAN DIATAS 565, MAKIN BANYAK BELI MAKIN BESAR POTONGAN, HARGA SURPRIZE...*`
 
   module.exports = {
     aMenu,
