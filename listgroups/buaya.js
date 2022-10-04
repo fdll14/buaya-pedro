@@ -1,5 +1,7 @@
 const ads = `*Garapan Akun Ads Google*
 
+Buat yang akun yang pertama kali lolos saat dipake buyer gw bakal dibayar 50k ingat untuk akun pertama yg lolos.
+
 Syarat:
 - Akun gmail minimal berumur 7 hari an (jangan yang baru bikin trus langsung buat garap).
 - Punya laptop ( lewat hp boleh asal menggunakan mode pakar )
@@ -19,17 +21,15 @@ QnA :
 
 1. *Kapan pembayarannya* ? Pembayaran nunggu konfirmasi dulu dari buyer gw. 
 
-2. *Bakal dibayar berapa* ? kalian bakal dibayar 50k buat 1 orang pertama jika akun kalian bisa dapat trafik yang stabil.
+2. *Bakal dibayar berapa* ? kalian bakal dibayar 25k per akun dengan catatan akun kalian bisa jalan dapat trafik yang stabil dengan pemakaian anggaran diatas 500k.
 
-3. *Garapan ini bakal instan cair engga* ? Jawabannya engga karna mesti nunggu buyer gw coba akunnya terlebih dahulu.
+3. *Berapa lama kira kira biar dibayar* ? Secepatnya pokoknya tergantung buyer gw ini karna dia perlu coba akunnya satu per satu jadi butuh waktu. Dan nunggu trafiknya ngabisin anggaran diatas 500k.
 
-4. *Berapa lama kira kira biar dibayar* ? Secepatnya pokoknya tergantung buyer gw ini karna dia perlu cek akunnya satu per satu jadi butuh waktu. dan tiap pengajuan perlu nunggu di check google dulu antara bakal di acc atau engga.
+3. *Kenapa ko jadi ribet gini bang* ? Ya mau gimana lagi kebanyakan akunnya dicoba malah ditangguhkan semua kata buyer gw kalo ga ya ga muncul trafik stabil.
 
-5. *Kenapa ko jadi ribet gini bang* ? Ya mau gimana lagi kebanyakan akunnya dicoba malah ditangguhkan semua kata buyer gw kalo ga ya ga muncul trafik stabil.
+4. *Kalo garap tapi akunnya pas dipake ditangguhkan atau suspend gimana* ? solusinya kalian mesti ngelakuin banding untuk akun tersebut kalo lolos banding bisa disetorin lagi. Kalo setelah banding tetap ditangguhkan/suspend gimana ? akun kalian akan tetap dibayar tapi hanya bakal dibayar 5k.
 
-6. *Kalo garap tapi akunnya pas dipake ditangguhkan atau suspend gimana* ? solusinya kalian mesti ngelakuin banding untuk akun tersebut kalo lolos banding bisa disetorin lagi dan kalo missal dipake ttp susped bakal diganti 25k ama buyer gw. kalo ga mau banding gimana ? cuma bakal dibayar 5k.
-
-7. *Ko rewardnya berkurang dan syaratnya jadi ribet gini* ? ya mau gimana lagi google update algoritma.
+5. *Ko rewardnya berkurang dan syaratnya jadi ribet gini* ? ya mau gimana lagi google update algoritma.
 
 Note
 *Kalo ada pertanyaan tanyakan di group jangan ngepm`
