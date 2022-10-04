@@ -27,7 +27,7 @@ QnA :
 
 3. *Kenapa ko jadi ribet gini bang* ? Ya mau gimana lagi kebanyakan akunnya dicoba malah ditangguhkan semua kata buyer gw kalo ga ya ga muncul trafik stabil.
 
-4. *Kalo garap tapi akunnya pas dipake ditangguhkan atau suspend gimana* ? solusinya kalian mesti ngelakuin banding untuk akun tersebut kalo lolos banding bisa disetorin lagi. Kalo setelah banding tetap ditangguhkan/suspend gimana ? akun kalian akan tetap dibayar tapi hanya bakal dibayar 5k.
+4. *Kalo garap tapi akunnya pas dipake ditangguhkan atau suspend gimana* ? solusinya kalian mesti ngelakuin banding untuk akun tersebut kalo lolos banding bisa disetorin lagi. Kalo setelah banding tetap ditangguhkan/suspend gimana ? akun kalian akan tetap gw bayar pake uang gw pribadi tapi hanya bakal dibayar 5k.
 
 5. *Ko rewardnya berkurang dan syaratnya jadi ribet gini* ? ya mau gimana lagi google update algoritma.
 
