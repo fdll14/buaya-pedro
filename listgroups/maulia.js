@@ -72,19 +72,14 @@ RATE:
 
 const aEPEP = `*FREE FIRE* 
 
-Diamond 💎
-100 💎 Rp. 12.500
-200 💎 Rp. 23.500
-300 💎 Rp. 35.000
-520 💎 Rp. 57.000
-1060 💎 Rp. 112.000
-2180💎 Rp. 222.000
-5600💎 Rp. 552.500
-11200💎 Rp. 1.102.500
-
-Membership Ⓜ️
-Mingguan Rp. 22.500
-Bulanan Rp. 69.000
+100 DM (1$) = 13.000
+310 DM (3$) = 38.000
+520 DM (5$) = 63.000
+1060 DM (10$) = 125.000
+2180 DM (20$) = 247.000
+5600 DM (50$) = 600.000
+MEMBER MINGGUAN (2$) = 24.000
+MEMBER BULANAN (6.5$) = 74.000
 
 Login VK/FB/Google
 Legal & Garansi 100%
