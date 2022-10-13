@@ -17,10 +17,9 @@ const aMenu = `*Menu* :
 
 *!ml* untuk melihat pricelist mobile legends
 *!lol* untuk melihat pricelist league of legends
-*!epep* untuk melihat pricelist free fire
+*!coc* untuk melihat pricelist coc
 *!gi* untuk melihat pricelist genshin impact
 *!apex* untuk melihat pricelist Apex Legend Mobile
-*!roblox* untuk melihat pricelist Roblox
 
  *!sewa* untuk menyewa bot`
 
@@ -108,8 +107,22 @@ const aEvent = `*EVENT PROMO*,
 3600 WILD CORE 215.000
 7600 WILD CORE 420.000`
 
+const aCoc = `
+*COC*
+80 gem       Rp11.000
+500 gem     Rp50.000
+1200 gem   Rp95.000
+2500 gem   Rp190.000
+6500 gem   Rp450.000
+14000 gem Rp900.000
+
+Latar Epic     : Rp 65k
+Skin Jawara : Rp 90k`
+
+
   module.exports = {
     aMenu,
+    aCoc,
     aPayment,
     aML,
     aGi,

@@ -10,7 +10,7 @@ const axios = require('axios');
 const owner = '62895422836123';
 const port = process.env.PORT || 8000;
 const { sewa, test, botPricelist, botPayment, botMenu, botML, botEPEP, botValo } = require('./listgroups/bot.js');
-const { aPayment, aMenu, aML, roblox,aEPEP, aLol,aGi,apex,aEvent } = require('./listgroups/maulia.js');
+const { aPayment, aMenu, aML, roblox,aEPEP, aLol,aGi,apex,aEvent,aCoc } = require('./listgroups/maulia.js');
 const { ads, gestun,garapan, adsMenu,cv } = require('./listgroups/buaya.js');
 const { three } = require('./listgroups/kuota.js');
 const app = express();
@@ -273,8 +273,8 @@ Mohon tunggu proses sesuai antrian ya @${contact.number}`,{mentions: [contact]})
       case '!payment':
         msg.reply(aPayment)
         break;
-      case '!roblox':
-        msg.reply(roblox)
+      case '!coc':
+        msg.reply(aCoc)
         break;
       case '!apex':
         msg.reply(apex)
@@ -288,9 +288,6 @@ Mohon tunggu proses sesuai antrian ya @${contact.number}`,{mentions: [contact]})
       case '!ml':
         msg.reply(aML)
         break;
-      case '!epep':
-        msg.reply(aEPEP)
-        break
       case '!lol':
         msg.reply(aLol)
         break
